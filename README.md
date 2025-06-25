@@ -2,7 +2,9 @@
 
 **BERT Text Embedding Generator**
 
-AIM : Create a program that uses a pre-trained language model (such as BERT or GPT) to tokenize and encode incoming text. While encoding converts these tokens into numerical representations appropriate for model input, tokenization divides the text into smaller pieces (tokens). This repository provides a simple implementation for generating text embeddings using BERT (bert-base-uncased model). The code is split into three logical components for better organization.
+AIM : Create a program that uses a pre-trained language model (such as BERT or GPT) to tokenize and encode incoming text. While encoding converts these tokens into numerical representations appropriate for model input, tokenization divides the text into smaller pieces (tokens). 
+
+This repository provides a simple implementation for generating text embeddings using BERT (bert-base-uncased model). The code is split into three logical components for better organization.
 
 ## Features
 - Load pre-trained BERT model and tokenizer
