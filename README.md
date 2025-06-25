@@ -43,3 +43,6 @@ The model and tokenizer are saved in the `saved_model` directory.
 - Python 3.x
 - PyTorch
 - Transformers library
+
+🔗 Connect with me:
+GitHub | LinkedIn
