@@ -45,4 +45,5 @@ The model and tokenizer are saved in the `saved_model` directory.
 - Transformers library
 
 🔗 Connect with me:
-GitHub | LinkedIn
+ GitHub : https://github.com/punit2006
+ Linkedin : www.linkedin.com/in/punitjain163
