@@ -44,6 +44,10 @@ The model and tokenizer are saved in the `saved_model` directory.
 - PyTorch
 - Transformers library
 
+## Google Colab 
+
+👉 https://colab.research.google.com/drive/1K4xJkYItDCB0aO1qFuIaCxoTOm8ioWzt?usp=sharing
+
 ## Connect with me:
  - GitHub : https://github.com/punit2006
  - Linkedin : www.linkedin.com/in/punitjain163
