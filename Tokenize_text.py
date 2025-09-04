@@ -1,6 +1,6 @@
 from load_model import tokenizer, model
 
-text = "Hello, Myself Punit Jain!"
+text = "Hello, Myself Pravin Menghani!"
 
 tokens = tokenizer.tokenize(text)
 print("\nTokens:", tokens)
