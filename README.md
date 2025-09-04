@@ -50,4 +50,4 @@ The model and tokenizer are saved in the `saved_model` directory.
 
 ## Connect with me:
  - GitHub : https://github.com/pravinmenghani1
- - Linkedin : www.linkedin.com/in/punitjain163](https://www.linkedin.com/in/pravinkumar-m-5922527/
+ - Linkedin : www.linkedin.com/in/pravinkumar-m-5922527](https://www.linkedin.com/in/pravinkumar-m-5922527/
